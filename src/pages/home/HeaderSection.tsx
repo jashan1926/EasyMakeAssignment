@@ -61,7 +61,7 @@ export default function HeaderSection() {
 					<img
 						ref={imgRef}
 						className="rounded-xl w-10/12"
-						src="public/laptop.jpg"
+						src="/laptop.jpg"
 						alt="girl with laptop and a pencel in his mouth looking tense"
 					/>
 				</div>
